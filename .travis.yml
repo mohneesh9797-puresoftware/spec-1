@@ -1,3 +1,6 @@
 language: generic
+arch:
+    - amd64
+    - arm64
 script:
 - make
